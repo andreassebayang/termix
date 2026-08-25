@@ -44,7 +44,7 @@ image: guacamole/guacd:1.6.0
 To update to a newer version:
 
 1. Check the latest available tags:
-   - [Termix releases](https://github.com/lukegus/termix/pkgs/container/termix)
+   - [Termix releases]([https://github.com/lukegus/termix/pkgs/container/termix](https://github.com/Termix-SSH/Termix/releases))
    - [Guacd releases](https://hub.docker.com/r/guacamole/guacd/tags)
 
 2. Update the image tag in `docker-compose.yml`:
